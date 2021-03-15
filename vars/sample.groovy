@@ -1,4 +1,4 @@
-def sample(){
+def call(){
   def name = "abhishek"
   if(name == "abhishek")
     println("Hello ${name}")
