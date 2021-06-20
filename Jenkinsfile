@@ -1,4 +1,4 @@
-@Library('JenkinsSLB@main')_
+@Library('JenkinsSLB@master')_
 pipeline{
     agent any
     stages{
